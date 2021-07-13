@@ -1,4 +1,29 @@
-# davinci
-# Converting to public repository
-Any and all Unity software of any description (including components) (1) whose source is to be made available other than under a Unity source code license or (2) in respect of which a public announcement is to be made concerning its inner workings, may be licensed and released only upon the prior approval of Legal.
-The process for that is to access, complete, and submit this [FORM](https://docs.google.com/forms/d/e/1FAIpQLSe3H6PARLPIkWVjdB_zMvuIuIVtrqNiGlEt1yshkMCmCMirvA/viewform).
+Quick Start - Arcade Classics, version 1.0.0
+============================================
+
+WHAT IT IS
+The Quick Start - Arcade Classics project is a collection of lightweight single scene games inspired by early arcade games.
+
+RECOMMENDED UNITY EDITOR
+Unity 2019 LTS
+
+HOW TO GENERATE A GAME
+To generate one of the games, locate *Templates* in the top menu bar, and from the list that appears, select *[Game you want to try] > Generate*.
+
+The selected game will then be generated in *Project > Assets*, and the game’s scene will be launched.
+
+HOW TO USE A GAME
+Start by testing out the game; then modify it as you please.
+
+WE WANT YOUR FEEDBACK
+We’d love to know your thoughts on the Quick Start - Arcade Classics project.
+To share your thoughts, fill out our survey: https://unitysoftware.co1.qualtrics.com/jfe/form/SV_d0BFJReQo8wshYq?source=readmefile
+
+LICENSE AGREEMENT
+This project is governed by the Unity Companion License.
+You can consult the license agreement here: https://unity3d.com/legal/licenses/Unity_Companion_License
+
+---------------------------------
+Changelog
+## [1.0.0] - 2021-07-15
+- The first public release
